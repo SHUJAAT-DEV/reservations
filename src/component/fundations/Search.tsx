@@ -1,5 +1,4 @@
 import Input from '../atoms/Input';
-
 type SearchType = {
   filter: string,
   setFilter: Function

@@ -1,5 +1,5 @@
 
-export const status: any[] = [
+export const statusList: any[] = [
   {
     value: "CONFIRMED",
     label: "CONFIRMED"
